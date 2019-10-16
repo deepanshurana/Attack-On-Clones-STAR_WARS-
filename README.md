@@ -15,4 +15,7 @@ Open the folder in current working directory and run the python script.
 Deepanshu Rana - [Github] (https://github.com/deepanshurana)
 
 Email - mailme.deepanshu45@gmail.com
+ 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
